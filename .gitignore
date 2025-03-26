@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Conda environment files
+envs/
+binder-design.env
+
+# Large data files
+data/*.pdb
+results/
